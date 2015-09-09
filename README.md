@@ -1,2 +1,2 @@
 # man
-Android source code
+Linux 错误处理模块，在异常情况下，显示具体的错误号和错误情况
